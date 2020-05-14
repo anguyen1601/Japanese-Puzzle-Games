@@ -8,3 +8,4 @@ Kakurasu: squares can be marked or unmarked. the sum on the right and bottom are
 
 Hitori: click to sahde a square. shading removes a number from the row or column. unshaded numbers should not repeat in rows or columns. shaded squares can only touch diagonally. again, reselect the menu puzzle option to reset
 
+java Run to run the program
